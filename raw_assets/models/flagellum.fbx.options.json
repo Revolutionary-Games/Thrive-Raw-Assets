@@ -1,0 +1,8 @@
+{
+    "animation": [
+        {
+            "type": "skin",
+            "target": "models/flagellum_move.animation"
+        }
+    ]
+}

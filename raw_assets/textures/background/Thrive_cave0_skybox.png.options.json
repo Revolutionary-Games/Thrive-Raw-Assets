@@ -1,0 +1,7 @@
+{
+  "target": "textures/background/Thrive_cave_skybox",
+  "pixelFormat": "RG11B10F",
+  "cubemap": {
+    "type": "single"
+  }
+}

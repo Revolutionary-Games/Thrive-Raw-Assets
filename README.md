@@ -1,5 +1,10 @@
-# Thrive-Raw-Assets
+# OUTDATED Thrive-Raw-Assets
 
+**All Thrive raw assets will now be uploaded to the ThriveDevCenter (access requires an account): https://dev.revolutionarygamesstudio.com/files/Raw%20Assets**
+
+Please also see our workflow description: https://wiki.revolutionarygamesstudio.com/wiki/Workflow
+
+### Old description
 This repository has raw versions of assets used in [Thrive](https://github.com/Revolutionary-Games/Thrive).
 
 The main repository contains assets that Godot can import. This is not
